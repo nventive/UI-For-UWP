@@ -93,7 +93,7 @@ When adding a documentation for a new API use:
 * Provide strongly typed APIs.
 * Use verbose identifier names.
 
-The official documentation for UI for UWP is available [here](http://docs.telerik.com/devtools/universal-windows-platform/Introduction-uwp) and here is the git repo for it [Telerik UI for UWP documentaton repo](https://github.com/telerik/uwp-docs) wher you could find a detailed [contribution guide](https://github.com/telerik/uwp-docs#contributing).
+The official documentation for UI for UWP is available [here](http://docs.telerik.com/devtools/universal-windows-platform/Introduction-uwp) and here is the Github repo for it [Telerik UI for UWP documentaton repo](https://github.com/telerik/uwp-docs) where you could find a detailed [contribution guide](https://github.com/telerik/uwp-docs#contributing).
 
 ## Files and folders
 * Only a single class should be added per filer.
